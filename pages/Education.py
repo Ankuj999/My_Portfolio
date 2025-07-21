@@ -10,7 +10,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 
 # College Section
 st.subheader("🏫 National Institute of Technology Agartala")
-st.image("images/NIT Agartala.jpg", caption="NIT Agartala Campus", use_column_width=True)
+st.image("images/NIT Agartala.jpg", caption="NIT Agartala Campus", use_container_width=True)
 
 st.markdown("""
 **Degree**: B.Tech in Electronics and Communication Engineering  
@@ -24,7 +24,7 @@ st.markdown("---")
 
 # School Section
 st.subheader("🏫 Pranavananda Vidya Mandir")
-st.image("images/PVM.jpg", caption="Pranavananda Vidya Mandir", use_column_width=True)
+st.image("images/PVM.jpg", caption="Pranavananda Vidya Mandir", use_container_width=True)
 
 st.markdown("""
 **Board**: CBSE (Central Board of Secondary Education)
