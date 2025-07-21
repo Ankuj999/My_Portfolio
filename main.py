@@ -120,3 +120,15 @@ if st.button("📜 Certifications"):
 
 if st.button("🌐 Contact & Links"):
     st.switch_page("pages/Social_Media.py")
+
+
+
+st.markdown("<hr>", unsafe_allow_html=True)
+st.markdown(
+    """
+    <div style='text-align: center; color: #888888; font-size: 15px; margin-top: 20px;'>
+        Designed & Developed by <b>Ankuj Saha</b> | © 2025
+    </div>
+    """,
+    unsafe_allow_html=True
+)
