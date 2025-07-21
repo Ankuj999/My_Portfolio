@@ -21,10 +21,10 @@ def set_bg_from_local(image_path):
     """
     st.markdown(bg_image, unsafe_allow_html=True)
 
-set_bg_from_local("D:\\DataScience\\My_Portfolio\\background.png")
+set_bg_from_local("background.png")
 
 # Load image
-img = Image.open(r"D:\DataScience\My_Portfolio\Ankuj.jpg")  # Use raw string for Windows paths
+img = Image.open(r"Ankuj.jpg")  # Use raw string for Windows paths
 
 # Custom CSS
 custom_css = """
