@@ -126,7 +126,7 @@ if st.button("🌐 Contact & Links"):
 st.markdown("<hr>", unsafe_allow_html=True)
 st.markdown(
     """
-    <div style='text-align: center; color: #888888; font-size: 15px; margin-top: 20px;'>
+    <div style='text-align: center; color: #6c757d; font-size: 24px; margin-top: 20px;'>
         Designed & Developed by <b>Ankuj Saha</b> | © 2025
     </div>
     """,
