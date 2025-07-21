@@ -2,7 +2,7 @@
 
 Welcome to my personal data science portfolio built using **Streamlit**. This interactive web app showcases my **projects**, **certifications**, **internships**, and **education** in a clean and accessible format.
 
-🔗 **Live Demo**: [View Portfolio](https://my-portfolio-3-9y2r.onrender.com)
+🔗 **Live Demo**: [View Portfolio](https://ankuj-portfolio.onrender.com/)
 
 ---
 
