@@ -77,7 +77,7 @@ st.markdown("""
     margin-left: auto;
     margin-right: auto;
 '>
-    <span style='color: #003333; font-weight: bold;'>
+    <span style='color: #6c757d; font-weight: bold;'>
     " Hello! I’m Ankuj Saha, currently residing in Agartala, Tripura(W). I come from an academic foundation in Electronics and Communication Engineering and have a keen interest in the field of Data Analytics. With hands-on experience in Python, SQL, Power BI, and Machine Learning, I focus on leveraging data to uncover insights and support informed decision-making. My goal is to apply structured problem-solving approaches and statistical techniques to solve real-world challenges. I am actively exploring opportunities that will allow me to grow as a Data Analyst and contribute meaningfully to data-driven projects in collaborative environments "
     </span>
 </div>
